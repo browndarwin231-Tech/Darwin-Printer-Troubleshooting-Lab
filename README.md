@@ -135,7 +135,7 @@ Checking for pending print jobs.
 
 First test page produced an invalid PDF.
 
-![](screenshots/04-test-page-failed.png)
+![](screenshots/04-test-page-failed.pdf.png)
 
 ---
 

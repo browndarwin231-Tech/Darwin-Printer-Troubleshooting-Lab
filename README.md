@@ -151,7 +151,7 @@ Verified Print Spooler service status.
 
 Restarted the Print Spooler service to refresh the printer subsystem and resolve the PDF printing issue.
 
-![Restarting Print Spooler](screenshots/06-restart-print-spool.png)
+![Restarting Print Spooler](screenshots/06-restart-print-spooler.png)
 ---
 
 ## 7. Successful Test Page
